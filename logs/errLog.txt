@@ -1,0 +1,13 @@
+20231226	13:34:05	6810d212-38dd-48d9-880b-d969feb0a420	Error : Not allowed by Cors
+20231226	14:32:15	197055ef-c586-4068-bf96-03ddcb528a4e	TypeError : req.json is not a function
+20231226	14:32:33	0c269b91-3fc5-4562-bf07-bc05af96972c	TypeError : req.json is not a function
+20231226	23:20:44	f29d0dc9-1c77-400c-aa03-302570a235dc	ReferenceError : Cannot access 'employee' before initialization
+20231226	23:21:12	1677580e-e618-4688-b41b-22aafb172d69	ReferenceError : Cannot access 'employee' before initialization
+20231226	23:21:32	ad829670-e98a-4e16-b6d1-0de5138954da	ReferenceError : Cannot access 'employee' before initialization
+20231226	23:21:36	1d9cf0b5-bbc5-4913-8871-92935cc2b1e6	ReferenceError : Cannot access 'employee' before initialization
+20231226	23:23:01	79dcec16-5ae6-41bf-b54b-1663ae7676dd	ReferenceError : employees is not defined
+20231226	23:23:45	ab926135-0cf2-44fd-8548-17b8fc002745	ReferenceError : employees is not defined
+20231226	23:23:58	dfec10bf-35f5-4e1d-8453-d3a8e81b0bb4	ReferenceError : employees is not defined
+20231226	23:25:00	a9a873c6-29cb-4d9d-b953-583a5ba17588	ReferenceError : Cannot access 'employee' before initialization
+20231228	01:10:03	ecbe0af8-d70a-42c4-8388-09d2cd6c50bd	TypeError: authHeader?.startWith is not a function
+20231228	01:12:35	ea7b1ec5-2f0d-42a3-a974-c84f9916e544	SyntaxError: Expected ',' or '}' after property value in JSON at position 41
